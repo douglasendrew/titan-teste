@@ -1,0 +1,1 @@
+Execute o comando <code>php -S localhost:8989</code> para iniciar o servidor.
